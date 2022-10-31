@@ -1,0 +1,15 @@
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.csproj.AssemblyReference.cache
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.AssemblyInfoInputs.cache
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.AssemblyInfo.cs
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.csproj.CoreCompileInputs.cache
+D:\School\proiect_liga_ac\proiect_liga_ac\bin\Debug\net6.0\proiect_liga_ac.exe
+D:\School\proiect_liga_ac\proiect_liga_ac\bin\Debug\net6.0\proiect_liga_ac.deps.json
+D:\School\proiect_liga_ac\proiect_liga_ac\bin\Debug\net6.0\proiect_liga_ac.runtimeconfig.json
+D:\School\proiect_liga_ac\proiect_liga_ac\bin\Debug\net6.0\proiect_liga_ac.dll
+D:\School\proiect_liga_ac\proiect_liga_ac\bin\Debug\net6.0\proiect_liga_ac.pdb
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.dll
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\refint\proiect_liga_ac.dll
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.pdb
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\proiect_liga_ac.genruntimeconfig.cache
+D:\School\proiect_liga_ac\proiect_liga_ac\obj\Debug\net6.0\ref\proiect_liga_ac.dll
